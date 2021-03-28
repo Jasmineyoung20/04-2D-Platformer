@@ -1,6 +1,6 @@
 # Project Name 
 
-Context and date 
+04-2D-Platformer March 27, 2020
 
 Description
  
@@ -11,5 +11,7 @@ Which features you included
 ## References 
 
 ## Future Development 
+none
 
 ## Created by 
+Jasmine Young
